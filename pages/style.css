@@ -1,0 +1,15 @@
+body{
+    padding: 10px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
